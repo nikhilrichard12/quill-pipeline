@@ -1,0 +1,9 @@
+{
+  "product": "Kestrel",
+  "base_url": "https://openrouter.ai/api/v1",
+  "api_key_env": "OPENROUTER_API_KEY",
+  "model": "anthropic/claude-sonnet-4.5",
+  "grader_model": "openai/gpt-4.1",
+  "max_rewrites": 2,
+  "temperature": 0.4
+}

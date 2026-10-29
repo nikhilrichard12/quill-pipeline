@@ -1,0 +1,12 @@
+# Generated pipeline output (outlines, drafts, reviews, factchecks, grades)
+output/*
+!output/.gitkeep
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
+__pycache__/
